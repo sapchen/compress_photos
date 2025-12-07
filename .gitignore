@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+compressed/
+photos/
+.DS_Store
+.env
