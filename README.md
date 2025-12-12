@@ -1,13 +1,15 @@
 # 图片批量压缩工具
 
-一行命令批量压缩图片
+一行python命令批量压缩图片
 
-## 安装（以conda举例，也可以使用原生python）
+## 安装
 conda env create -f environment.yml
 
 conda activate photo-compress
 
-## 基本用法（默认配置）
+注：以conda举例，原生python环境请自行deepseek
+
+## 基本用法
 python compress_photos.py
 
 ## 自定义参数
